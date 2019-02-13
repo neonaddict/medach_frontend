@@ -4,7 +4,7 @@ module.exports = {
       name: "nuxt",
       script: "./node_modules/nuxt/bin/nuxt-start",
       env: {
-          "HOST": "142.93.13.232",
+          "HOST": "206.189.193.126",
           "NODE_ENV": "production",
           "BASE_URL": 'http://medach.pro'
       }
