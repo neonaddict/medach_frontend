@@ -5,10 +5,10 @@
   "author": "vanilla-ice <valeraerohin97@mail.ru>",
   "private": true,
   "scripts": {
-    "dev": "BASE_URL=https://medach.pro nuxt",
-    "build": "BASE_URL=https://medach.pro nuxt build",
+    "dev": "BASE_URL=https://neonaddict.me nuxt",
+    "build": "BASE_URL=https://neonaddict.me nuxt build",
     "start": "NUXT_PORT=1337 nuxt start",
-    "generate": "BASE_URL=https://medach.pro nuxt generate",
+    "generate": "BASE_URL=https://neonaddict.me nuxt generate",
     "generate-dev": "nuxt generate && cd ./dist/ && php -S localhost:8081 && cd ..",
     "prod": "pm2 start npm ecosystem.config.js --name nuxt -- start",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",

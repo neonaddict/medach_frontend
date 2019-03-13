@@ -96,7 +96,7 @@ export default {
         {
           hid: 'ogurl',
           property: 'og:url',
-          content: 'https://medach.pro'+this.$route.path
+          content: 'https://neonaddict.me'+this.$route.path
         },
         {
           hid: 'ogtype',

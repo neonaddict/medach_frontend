@@ -1,7 +1,7 @@
 import axios from 'axios'
 ///'http://localhost:8080'
 const axiosInstance = axios.create({
-  baseURL: 'https://medach.pro',
+  baseURL: 'https://neonaddict.me',
   timeout: 50000,
   headers: {},
   withCredentials: false
