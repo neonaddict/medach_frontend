@@ -6,7 +6,7 @@ module.exports = {
       env: {
           "HOST": "206.189.193.126",
           "NODE_ENV": "production",
-          "BASE_URL": 'http://medach.pro'
+          "BASE_URL": 'http://neonaddict.me'
       }
     }
   ]
