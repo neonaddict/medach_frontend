@@ -326,6 +326,17 @@ export default {
     margin-top: 24px !important;
   }
 
+  table {
+    border-collapse: collapse;
+    max-width: 100%;
+    width: 100%;
+    td, th {
+      border: 1px solid #eee;
+      padding: 16px;
+      padding-bottom: 15px;
+    }
+  }
+
   .editor_img-title {
     width: 100%;
     color: #fff;
